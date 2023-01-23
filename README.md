@@ -1,6 +1,6 @@
 # Decision-Trees-and-Random-Forests
 
-### This project is an implementation of both Decision Trees and Random Forests supervised machine learning algorithms for both classification and regression tasks, using various techniques to improve their performance.
+#### This project is an implementation of both Decision Trees and Random Forests supervised machine learning algorithms for both classification and regression tasks, using various techniques to improve their performance.
 
 Decision Trees and Random Forests are both supervised machine learning algorithms used for both classification and regression tasks.
 
